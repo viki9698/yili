@@ -15,7 +15,7 @@ input, textarea, select {margin:0; padding:0px;}
 /* ------------------Style---------------------- */
 /* -------------------------------------------- */
 html, body {width:100%; padding:0; margin:0;}
-body {background: url(../images/bg.jpg) no-repeat top center fixed ;color:#CCC;font: 12px/25px Arial, Helvetica, sans-serif;}
+body {background: url(../images/bg1.jpg) no-repeat top center fixed ;color:#CCC;font: 12px/25px Arial, Helvetica, sans-serif;}
 
 /*-------------------------*/
 a{color: #CCCCCC;text-decoration: none;}
